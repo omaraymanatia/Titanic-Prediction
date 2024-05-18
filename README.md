@@ -98,9 +98,3 @@ The notebook concludes with a summary of findings and potential next steps for i
 - Pandas Documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
 - Matplotlib Documentation: [https://matplotlib.org/stable/users/index.html](https://matplotlib.org/stable/users/index.html)
 - Seaborn Documentation: [https://seaborn.pydata.org/tutorial.html](https://seaborn.pydata.org/tutorial.html)
-
-## Installation
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-
