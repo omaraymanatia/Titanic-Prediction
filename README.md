@@ -61,7 +61,7 @@ EDA involves visualizing and summarizing the main characteristics of the data. K
 ## 5. Feature Engineering
 
 Feature engineering involves creating new features or modifying existing ones to improve the performance of the model. Steps include:
-- Creating new features from existing ones (e.g., family size from `SibSp` and `Parch`)
+- Creating new features from existing ones
 - Encoding categorical variables
 - Feature selection to identify the most important features
 
